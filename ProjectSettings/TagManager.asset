@@ -3,7 +3,9 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - CinemachineTarget
+  - Portal Ignore
   layers:
   - Default
   - TransparentFX
@@ -13,6 +15,7 @@ TagManager:
   - UI
   - 
   - 
+  - Player
   - 
   - 
   - 
@@ -33,9 +36,8 @@ TagManager:
   - 
   - 
   - 
-  - 
-  - 
-  - 
+  - YourWorld
+  - staging
   - 
   m_SortingLayers:
   - name: Default
